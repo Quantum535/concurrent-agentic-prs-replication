@@ -1,0 +1,4 @@
+stratum,conflicts,evaluable,rate,ci_low,ci_high,attempted,unavailable
+same,119,601,0.198,0.1681,0.2317,625,24
+cross,48,115,0.4174,0.3314,0.5088,122,7
+__pool__,167,716,0.2332,0.2037,0.2656,747,31
